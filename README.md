@@ -22,15 +22,6 @@
 -  👯 Open to collaborate on: **Web applications, machine learning, and security projects.**
 -  📝 Check out my <a href="https://github.com/Noel9812" style="color: #FF4500;">GitHub Repositories</a> for more info.
 
-
-<div align="center">
-  <!-- LinkedIn Badge Image -->
-  <a href="https://in.linkedin.com/in/noel-mathews-613ab3235" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
               
 
 ## Experience
