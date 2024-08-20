@@ -40,7 +40,7 @@ I am currently working on web development projects, primarily using React and Fi
 </p>
 
 ## Featured Project: 
-Gitzzeria
+##Gitzzeria
 Designed and developed an innovative cashless canteen platform for college communities, offering features such as advanced order scheduling, secure payment integration, virtual queue management for real-time updates, and interactive feedback channels. The platform enhances convenience, reduces wait times, and improves the overall dining experience while optimizing operational efficiency for canteen management.
 
 <a href="https://github.com/Noel9812/Gitzzeriaa" style="color: #FF4500;">View Project</a>
@@ -53,11 +53,6 @@ Designed and developed an innovative cashless canteen platform for college commu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noel9812&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6347&ring=FF6347&fire=FF6347&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=FF6347" alt="GitHub Streak" style="border-radius: 8px; border: 2px solid #FF6347;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel9812&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6347&text_color=C9D1D9" alt="Top Languages" style="border-radius: 8px; border: 2px solid #FF6347;" />
-</div>
-
-<div align="center">
-  <h2 style="color: #FF6347;">Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noel9812&theme=radical&hide_border=true" alt="Contribution Graph" style="border-radius: 8px; border: 2px solid #FF6347;" />
 </div>
 
 <div align="center">
