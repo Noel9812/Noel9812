@@ -11,6 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=Noel9812&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="border-radius: 8px; border: 2px solid #FF6347;" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noel9812&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,PullRequestReview,Forks,Watchers,Gists,Contributions,Experience,Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
