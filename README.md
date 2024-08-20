@@ -3,9 +3,9 @@
   
   <h3 style="color: #FF6347;">Aspiring Web Developer | React and Firebase Enthusiast</h3>
   <p>
-    <a href="https://www.linkedin.com/in/noel-mathews"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/noel_mathews/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="mailto:noel.mathews@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/noel-mathews-613ab3235/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/_.nooel/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="mailto:noelmathews123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=Noel9812&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="border-radius: 8px; border: 2px solid #FF6347;" />
