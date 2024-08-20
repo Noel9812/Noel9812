@@ -22,6 +22,10 @@
 -  👯 Open to collaborate on: **Web applications, machine learning, and security projects.**
 -  📝 Check out my <a href="https://github.com/Noel9812" style="color: #FF4500;">GitHub Repositories</a> for more info.
 
+
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="noel-mathews-613ab3235" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/noel-mathews-613ab3235?trk=profile-badge">Noel Mathews</a></div>
+              
+
 ## Experience
 I am currently working on web development projects, primarily using React and Firebase. I focus on creating dynamic web applications that integrate authentication systems, databases, and cloud storage, enhancing the overall security and user experience. I collaborate closely with peers to continually improve the functionality and security of the applications I develop.
 
