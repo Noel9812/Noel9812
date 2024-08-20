@@ -24,11 +24,12 @@
 
 
 <div align="center">
-  <!-- LinkedIn Badge -->
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="noel-mathews-613ab3235" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/noel-mathews-613ab3235?trk=profile-badge">Noel Mathews</a>
-  </div>
+  <!-- LinkedIn Badge Image -->
+  <a href="https://in.linkedin.com/in/noel-mathews-613ab3235" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
 
               
 
