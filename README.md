@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Noel+Mathews's+Web+Dev+Portfolio!;Aspiring+Web+Developer+and+CSE+Graduate;&center=true&width=380&height=45" alt="Typing Text" style="border-radius: 8px; background: #4B0082; color: #FFD700;">
+  <img src="/mnt/data/NOEL MATHEWS.png" alt="Noel Mathews Banner" style="border-radius: 8px;">
   
   <h3 style="color: #FF6347;">Aspiring Web Developer | React and Firebase Enthusiast</h3>
   <p>
@@ -22,21 +21,7 @@
 -  📝 Check out my <a href="https://github.com/Noel9812" style="color: #FF4500;">GitHub Repositories</a> for more info.
 
 ## Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 style="color: #32CD32;">Web Development Projects</h3>        
-        <p><strong>2023 - Present</strong></p>
-        <ul style="color: #FF1493;">
-          <li>Created dynamic web applications using React and Firebase.</li>
-          <li>Integrated authentication, database, and storage systems using Firebase.</li>
-          <li>Collaborated with peers to enhance web application features and security.</li>
-       
-    </tr>
-  </table>
-</div>
+I am currently working on web development projects, primarily using React and Firebase. I focus on creating dynamic web applications that integrate authentication systems, databases, and cloud storage, enhancing the overall security and user experience. I collaborate closely with peers to continually improve the functionality and security of the applications I develop.
 
 ## Tech Stack
 <p align="center">
@@ -52,30 +37,10 @@
   <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=cyber-security&logoColor=white" alt="Cyber Security"/>
 </p>
 
-## Featured Projects
+## Featured Project: Gitzzeria
+Gitzzeria is a fully functional web application designed to help developers manage their GitHub repositories more effectively. The application allows users to organize repositories, track contributions, and provides insights on repository statistics. Developed using **React**, **Firebase**, and **GitHub API**, it integrates features like authentication, real-time data updates, and performance monitoring to enhance the user experience.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 style="color: #FF4500;">Project 1</h3>
-      <ul style="color: #00CED1;">
-        <li>Developed a web application using React and Firebase for real-time updates.</li>
-        <li>Implemented user authentication and database integration.</li>
-        <li><strong>Technologies:</strong> React, Firebase, HTML, CSS</li>
-      </ul>
-      <a href="https://github.com/Noel9812/project1" style="color: #FF4500;">View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 style="color: #FF4500;">Project 2</h3>
-      <ul style="color: #00CED1;">
-        <li>Created a machine learning model for image classification.</li>
-        <li>Implemented a front-end interface to interact with the ML model.</li>
-        <li><strong>Technologies:</strong> Python, React, TensorFlow</li>
-      </ul>
-      <a href="https://github.com/Noel9812/project2" style="color: #FF4500;">View Project</a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Noel9812/Gitzzeria" style="color: #FF4500;">View Project</a>
 
 <div align="center">
   <h2 style="color: #FF6347;">GitHub Stats</h2>
