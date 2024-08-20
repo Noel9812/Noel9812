@@ -23,7 +23,13 @@
 -  📝 Check out my <a href="https://github.com/Noel9812" style="color: #FF4500;">GitHub Repositories</a> for more info.
 
 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="noel-mathews-613ab3235" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/noel-mathews-613ab3235?trk=profile-badge">Noel Mathews</a></div>
+<div align="center">
+  <!-- LinkedIn Badge -->
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="noel-mathews-613ab3235" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/noel-mathews-613ab3235?trk=profile-badge">Noel Mathews</a>
+  </div>
+</div>
+
               
 
 ## Experience
