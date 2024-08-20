@@ -42,7 +42,7 @@ I am currently working on web development projects, primarily using React and Fi
 ## Featured Project: Gitzzeria
 Designed and developed an innovative cashless canteen platform for college communities, offering features such as advanced order scheduling, secure payment integration, virtual queue management for real-time updates, and interactive feedback channels. The platform enhances convenience, reduces wait times, and improves the overall dining experience while optimizing operational efficiency for canteen management.
 
-<a href="https://github.com/Noel9812/Gitzzeria" style="color: #FF4500;">View Project</a>
+<a href="https://github.com/Noel9812/Gitzzeriaa" style="color: #FF4500;">View Project</a>
 
 <div align="center">
   <h2 style="color: #FF6347;">GitHub Stats</h2>
