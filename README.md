@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.ibb.co/4FW3mrD/White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Profile Banner" width="100%" style="border-radius: 8px; border: 3px solid #FF6347;">
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Noel+Mathews's+Web+Dev+Portfolio!;Aspiring+Web+Developer+and+CSE+Graduate;&center=true&width=380&height=45" alt="Typing Text" style="border-radius: 8px; background: #4B0082; color: #FFD700;">
   
