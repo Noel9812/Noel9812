@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/NOEL MATHEWS.png" alt="Noel Mathews Banner" style="border-radius: 8px;">
+  <img src="NOEL MATHEWS.png" alt="Noel Mathews Banner" style="border-radius: 8px;">
   
   <h3 style="color: #FF6347;">Aspiring Web Developer | React and Firebase Enthusiast</h3>
   <p>
