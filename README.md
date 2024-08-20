@@ -33,17 +33,7 @@
           <li>Created dynamic web applications using React and Firebase.</li>
           <li>Integrated authentication, database, and storage systems using Firebase.</li>
           <li>Collaborated with peers to enhance web application features and security.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3 style="color: #32CD32;">Collaborative Development</h3>
-        <p><strong>2023 - Present</strong></p>
-        <ul style="color: #FF1493;">
-          <li>Participated in open-source projects, contributing to codebases and resolving issues.</li>
-          <li>Implemented front-end solutions with HTML, CSS, JavaScript, and React.</li>
-          <li>Worked with a team to solve real-world problems with web-based solutions.</li>
-        </ul>
-      </td>
+       
     </tr>
   </table>
 </div>
