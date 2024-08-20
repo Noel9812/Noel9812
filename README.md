@@ -39,7 +39,8 @@ I am currently working on web development projects, primarily using React and Fi
   <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=cyber-security&logoColor=white" alt="Cyber Security"/>
 </p>
 
-## Featured Project: Gitzzeria
+## Featured Project: 
+Gitzzeria
 Designed and developed an innovative cashless canteen platform for college communities, offering features such as advanced order scheduling, secure payment integration, virtual queue management for real-time updates, and interactive feedback channels. The platform enhances convenience, reduces wait times, and improves the overall dining experience while optimizing operational efficiency for canteen management.
 
 <a href="https://github.com/Noel9812/Gitzzeriaa" style="color: #FF4500;">View Project</a>
