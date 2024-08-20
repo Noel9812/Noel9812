@@ -40,7 +40,7 @@ I am currently working on web development projects, primarily using React and Fi
 </p>
 
 ## Featured Project: Gitzzeria
-Gitzzeria is a fully functional web application designed to help developers manage their GitHub repositories more effectively. The application allows users to organize repositories, track contributions, and provides insights on repository statistics. Developed using **React**, **Firebase**, and **GitHub API**, it integrates features like authentication, real-time data updates, and performance monitoring to enhance the user experience.
+Designed and developed an innovative cashless canteen platform for college communities, offering features such as advanced order scheduling, secure payment integration, virtual queue management for real-time updates, and interactive feedback channels. The platform enhances convenience, reduces wait times, and improves the overall dining experience while optimizing operational efficiency for canteen management.
 
 <a href="https://github.com/Noel9812/Gitzzeria" style="color: #FF4500;">View Project</a>
 
