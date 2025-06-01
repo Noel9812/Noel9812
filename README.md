@@ -42,6 +42,11 @@ I am currently working on web development projects, primarily using React and Fi
 </p>
 
 ## Featured Project: 
+
+# Real-time Network Intrusion Detection System
+A real-time network intrusion detection system (RNIDS) powered by hybrid machine learning (Random Forest + Autoencoder) with live traffic analysis, interactive dashboards, explainable AI (LIME), and Firebase integration.
+<a href="https://github.com/Noel9812/RNIDS" style="color: #FF4500;">View Project</a>
+
 # Gitzzeria
 Designed and developed an innovative cashless canteen platform for college communities, offering features such as advanced order scheduling, secure payment integration, virtual queue management for real-time updates, and interactive feedback channels. The platform enhances convenience, reduces wait times, and improves the overall dining experience while optimizing operational efficiency for canteen management.
 <a href="https://github.com/Noel9812/Gitzzeriaa" style="color: #FF4500;">View Project</a>
@@ -50,10 +55,6 @@ Designed and developed an innovative cashless canteen platform for college commu
 Guardia is a Flutter-based mobile application designed to enhance women’s safety by incorporating real-time monitoring features. The app detects emergencies through fall detection, loud noise detection, and triggers automated responses like video/audio recording, location sharing, and AI-generated incident reports with emergency contacts. The primary goal is to provide quick and effective assistance during potentially dangerous situations.
 
 <a href="https://github.com/Noel9812/Guardia" style="color: #FF4500;">View Project</a>
-
-# Real-time Network Intrusion Detection System
-A real-time network intrusion detection system (RNIDS) powered by hybrid machine learning (Random Forest + Autoencoder) with live traffic analysis, interactive dashboards, explainable AI (LIME), and Firebase integration.
-<a href="https://github.com/Noel9812/RNIDS" style="color: #FF4500;">View Project</a>
 
 <div align="center">
   <h2 style="color: #FF6347;">GitHub Stats</h2>
