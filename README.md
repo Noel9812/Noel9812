@@ -51,6 +51,10 @@ Guardia is a Flutter-based mobile application designed to enhance women’s safe
 
 <a href="https://github.com/Noel9812/Guardia" style="color: #FF4500;">View Project</a>
 
+# Real-time Network Intrusion Detection System
+A real-time network intrusion detection system (RNIDS) powered by hybrid machine learning (Random Forest + Autoencoder) with live traffic analysis, interactive dashboards, explainable AI (LIME), and Firebase integration.
+<a href="https://github.com/Noel9812/RNIDS" style="color: #FF4500;">View Project</a>
+
 <div align="center">
   <h2 style="color: #FF6347;">GitHub Stats</h2>
   
